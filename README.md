@@ -1,5 +1,5 @@
-# Weather Application
-Weather Application using Angularjs
+# Angularjs Generic Template
+Angularjs + webpack + babel 
 
 
 ## Build Setup
